@@ -32,4 +32,8 @@ import sys,
 
 
 free for modification and fair use
+![Screenshot 2023-12-05 130536](https://github.com/vickkie/Uzi-Battery-monitor/assets/43224578/925c57f0-d465-4959-9dd8-57f41dcf3c8d)
+
+
+
 
