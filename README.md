@@ -38,6 +38,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
    ```
 
+
 2. Navigate to the project directory:
 
 bash
