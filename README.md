@@ -15,15 +15,65 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#Windows-Installation-Instructions)
 - [Usage](#usage)
 - [Settings](#settings)
 - [Program Information](#program-information)
 - [License](#license)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Changelog](#changelog)
+- 
 
-## Installation
+## Windows Installation Instructions
+Thank you for choosing JuiceWatch! Follow the steps below to install the application on your computer.
+
+Prerequisites
+Make sure your system meets the following requirements:
+
+Operating System: Windows
+Disk Space: At least 50 MB of free space
+RAM: Minimum 2 GB
+Installation Steps
+Download the Installer:
+
+(i) Visit our official website: https://vickkie.github.io/JuiceWatch
+    Navigate to the "Downloads" section.
+    Download the latest version of JuiceWatch.
+    Run the Installer:
+
+2) Locate the downloaded installer file (e.g., JuiceWatch-installer.exe).
+Double-click the installer to run it.
+Follow the Setup Wizard:
+
+3) The setup wizard will guide you through the installation process.
+Click "Next" to proceed.
+Review License Agreement:
+
+4) Read and accept the license agreement.
+Click "Next" to continue.
+Select Installation Location:
+
+5) Choose the destination folder for JuiceWatch installation.
+Click "Next" to proceed.
+Create Desktop Shortcut:
+
+6) Choose whether to create a desktop shortcut.
+Click "Next" to continue.
+Ready to Install:
+
+7) Review the installation settings.
+Click "Install" to start the installation process.
+Installation Complete:
+
+8) Once the installation is complete, click "Finish."
+Getting Started
+Launch JuiceWatch:
+
+9) Double-click the JuiceWatch icon on your desktop.
+Or, find it in your Start Menu.
+Explore Features:
+
+## Installation For Development
 
 ### Requirements
 
