@@ -37,9 +37,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
    git clone https://github.com/vickkie/JuiceWatch.git
 
    ```
-### Build use
 
->pyinstaller --onefile --noconsole --hidden-import win10toast --add-data "folder.png;." --add-data "notification.png;." --add-data "turnoff.png;." --add-data "notify.png;." --add-data "icon.ico;." --additional-hooks-dir=. --icon=icon.ico JuiceWatch.py
 
 2. Navigate to the project directory:
 
