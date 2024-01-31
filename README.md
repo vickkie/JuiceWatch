@@ -34,7 +34,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/JuiceWatch.git
+   git clone https://github.com/vickkie/JuiceWatch.git
 
    ```
 
@@ -83,4 +83,9 @@ Feel free to contribute to this project. Read the Contribution Guidelines for mo
 Check the Changelog for information about the latest updates.
 
 free for modification and fair use
-![Screenshot 2023-12-05 130536](https://github.com/vickkie/Uzi-Battery-monitor/assets/43224578/925c57f0-d465-4959-9dd8-57f41dcf3c8d)
+
+## Visual Update
+
+![juiceWatch](https://github.com/vickkie/Uzi-Battery-monitor/assets/43224578/5bf48854-6d6b-463d-8fc4-d9cb96150e6b)
+
+
