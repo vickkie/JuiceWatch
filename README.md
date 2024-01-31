@@ -34,7 +34,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/JuiceWatch.git
+   git clone https://github.com/your-username/JuiceWatch.git](https://github.com/vickkie/JuiceWatch.git
 
    ```
 
