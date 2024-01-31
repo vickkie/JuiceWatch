@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "JuiceWatch"
-#define MyAppVersion "2.0"
+#define MyAppVersion "1.0"
 #define MyAppPublisher "Trakexcel Agency, Inc."
 #define MyAppURL "https://vickkie.github.io"
 #define MyAppExeName "JuiceWatch.exe"
@@ -21,7 +21,8 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName=C:\Program Files\{#MyAppName}
+DefaultDirName={autopf}\{#MyAppName}
+;DefaultDirName=C:\Program Files\{#MyAppName}
 ChangesAssociations=yes
 DisableProgramGroupPage=yes
 LicenseFile=C:\xampp\htdocs\trakexcel\Uzi-Battery-monitor\license.txt
@@ -43,7 +44,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\xampp\htdocs\trakexcel\Uzi-Battery-monitor\JuiceWatch-Run.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\xampp\htdocs\trakexcel\Uzi-Battery-monitor\JuiceWatch.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\xampp\htdocs\trakexcel\Uzi-Battery-monitor\icon.ico"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\xampp\htdocs\trakexcel\Uzi-Battery-monitor\notify.png"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\xampp\htdocs\trakexcel\Uzi-Battery-monitor\turnoff.png"; DestDir: "{app}"; Flags: ignoreversion

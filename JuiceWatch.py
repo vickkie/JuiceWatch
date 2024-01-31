@@ -468,8 +468,8 @@ if __name__ == "__main__":
         icon_path = os.path.join(sys._MEIPASS, "icon.ico")
 
     image = Image.open(icon_path)
-    menu_icon = pystray.Icon("Uzi Battery Monitor",
-                             image, "Uzi Battery Monitor", menu)
+    menu_icon = pystray.Icon("Juice Watch",
+                             image, "Juice Watch", menu)
     menu_icon.visible = False
     
     #show notification its in the notification panel
