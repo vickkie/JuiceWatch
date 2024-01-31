@@ -1,39 +1,86 @@
-# Uzi-charger-monitor
-A program to monitor if charger is plugged out and act accordingly
+# JuiceWatch 🩺🍂
 
-You can install in cmd or python the program by running in root python scripts folder
+![JuiceWatch Logo](https://i.postimg.cc/Y07vvmBn/icon.png)
 
-//code
-Python312\Scripts>pyinstaller --onefile --noconsole --hidden-import win10toast --additional-hooks-dir=. --icon=icons8-connect-48.ico battery_monitor.py
+JuiceWatch is a battery monitoring application designed to provide real-time insights into your laptop's battery status charging Status. It helps you conserve battery life by taking proactive actions when your laptop is not connected to the charger. Stay informed and in control of your power usage!
 
+#### Very useful for Laptops with almost dead batteries.(Very)
 
-depends on :
+## Features
 
-//ensure to install in python before building THE APPlication..
-import os,
+- Continuous monitoring of laptop battery status
+- Notifications for charger connection and disconnection events
+- Customizable notification intervals and turn-off delays
+- Manual initiation of shutdown using the 'Shutdown' button
 
-import psutil,
+## Table of Contents
 
-import time,
+- [Installation](#installation)
+- [Usage](#usage)
+- [Settings](#settings)
+- [Program Information](#program-information)
+- [License](#license)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Changelog](#changelog)
 
-from win10toast import ToastNotifier,
+## Installation
 
-from tkinter import Tk, Label, Button, Entry, messagebox, Text, Toplevel, END,
+### Requirements
 
-import pystray,
+- Windows Operating System
+- Python 3.x installed
+- [Inno Setup](https://www.jrsoftware.org/isinfo.php) for creating the installer (optional)
 
-from pystray import MenuItem as item,
+1. Clone the repository:
 
-from PIL import Image, ImageDraw,
+   ```bash
+   git clone https://github.com/your-username/JuiceWatch.git
 
-import threading,
+   ```
 
-import sys,
+2. Navigate to the project directory:
 
+bash
+cd JuiceWatch
+Install Python dependencies:
+
+bash
+-pip install -r requirements.txt
+-Run JuiceWatch:
+
+bash
+
+python JuiceWatch.py
+
+### Usage
+
+-Configure your notification settings in the 'Settings' tab.
+-The program will continuously monitor your laptop's battery status.
+-Receive notifications for charger connection and disconnection events.
+-Customize notification intervals and turn-off delays to suit your preferences.
+-Optionally, manually initiate a shutdown using the 'Shutdown' button.
+
+### Settings
+
+-Open the 'Settings' tab to configure notification intervals and turn-off delays.
+-Click the 'Update Settings' button to apply changes.
+
+### Program Information
+
+-Open the 'Program Info' tab for additional information about JuiceWatch.
+-Learn more about how JuiceWatch helps you conserve battery life.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Contribution Guidelines
+
+Feel free to contribute to this project. Read the Contribution Guidelines for more information.
+
+### Changelog
+
+Check the Changelog for information about the latest updates.
 
 free for modification and fair use
 ![Screenshot 2023-12-05 130536](https://github.com/vickkie/Uzi-Battery-monitor/assets/43224578/925c57f0-d465-4959-9dd8-57f41dcf3c8d)
-
-
-
-

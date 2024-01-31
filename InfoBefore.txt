@@ -1,0 +1,5 @@
+Welcome to JuiceWatch Installation
+
+This setup wizard will guide you through the installation process.
+Please ensure that you have read and agreed to the license terms.
+
