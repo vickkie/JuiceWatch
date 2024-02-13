@@ -15,7 +15,8 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation -Any Os](#installation)
+- [Installation- Windows](#Windows-Installation)
 - [Usage](#usage)
 - [Settings](#settings)
 - [Program Information](#program-information)
@@ -27,7 +28,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 ### Requirements
 
-- Windows Operating System
+- Any Operating System
 - Python 3.x installed
 - [Inno Setup](https://www.jrsoftware.org/isinfo.php) for creating the installer (optional)
 
@@ -41,35 +42,56 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 2. Navigate to the project directory:
 
-bash
+  ``` bash
 cd JuiceWatch
-Install Python dependencies:
 
-bash
--pip install -r requirements.txt
--Run JuiceWatch:
+  ```
 
-bash
+3. Install Python dependencies:
+
+  ``` bash
+pip install -r requirements.txt
+
+```
+4. -Run JuiceWatch:
+
+ ```bash
 
 python JuiceWatch.py
+ 
+ ```
+
+## Windows Installation
+
+### Requirements
+
+- Windows Operating System
+- Python 3.x installed
+- [Inno Setup](https://www.jrsoftware.org/isinfo.php) for creating the installer (optional)
+
+### Download installation setup under release on the github page
+ 
+ - [JuiceWatch Setup](https://github.com/vickkie/Juicewatch)
+
+
 
 ### Usage
 
--Configure your notification settings in the 'Settings' tab.
--The program will continuously monitor your laptop's battery status.
--Receive notifications for charger connection and disconnection events.
--Customize notification intervals and turn-off delays to suit your preferences.
--Optionally, manually initiate a shutdown using the 'Shutdown' button.
+- Configure your notification settings in the 'Settings' tab.
+- The program will continuously monitor your laptop's battery status.
+- Receive notifications for charger connection and disconnection events.
+- Customize notification intervals and turn-off delays to suit your preferences.
+- Optionally, manually initiate a shutdown using the 'Shutdown' button.
 
 ### Settings
 
--Open the 'Settings' tab to configure notification intervals and turn-off delays.
--Click the 'Update Settings' button to apply changes.
+- Open the 'Settings' tab to configure notification intervals and turn-off delays.
+- Click the 'Update Settings' button to apply changes.
 
 ### Program Information
 
--Open the 'Program Info' tab for additional information about JuiceWatch.
--Learn more about how JuiceWatch helps you conserve battery life.
+- Open the 'Program Info' tab for additional information about JuiceWatch.
+- Learn more about how JuiceWatch helps you conserve battery life.
 
 ### License
 
