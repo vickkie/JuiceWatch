@@ -62,21 +62,21 @@ python JuiceWatch.py
 
 ### Usage
 
--Configure your notification settings in the 'Settings' tab.
--The program will continuously monitor your laptop's battery status.
--Receive notifications for charger connection and disconnection events.
--Customize notification intervals and turn-off delays to suit your preferences.
--Optionally, manually initiate a shutdown using the 'Shutdown' button.
+- Configure your notification settings in the 'Settings' tab.
+- The program will continuously monitor your laptop's battery status.
+- Receive notifications for charger connection and disconnection events.
+- Customize notification intervals and turn-off delays to suit your preferences.
+- Optionally, manually initiate a shutdown using the 'Shutdown' button.
 
 ### Settings
 
--Open the 'Settings' tab to configure notification intervals and turn-off delays.
--Click the 'Update Settings' button to apply changes.
+- Open the 'Settings' tab to configure notification intervals and turn-off delays.
+- Click the 'Update Settings' button to apply changes.
 
 ### Program Information
 
--Open the 'Program Info' tab for additional information about JuiceWatch.
--Learn more about how JuiceWatch helps you conserve battery life.
+- Open the 'Program Info' tab for additional information about JuiceWatch.
+- Learn more about how JuiceWatch helps you conserve battery life.
 
 ### License
 
