@@ -41,17 +41,24 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 2. Navigate to the project directory:
 
-bash
+  ``` bash
 cd JuiceWatch
-Install Python dependencies:
 
-bash
--pip install -r requirements.txt
--Run JuiceWatch:
+  ```
 
-bash
+3. Install Python dependencies:
+
+  ``` bash
+pip install -r requirements.txt
+
+```
+4. -Run JuiceWatch:
+
+ ```bash
 
 python JuiceWatch.py
+ 
+ ```
 
 ### Usage
 
