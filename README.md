@@ -27,7 +27,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 ### Requirements
 
-- Windows Operating System
+- Any Operating System
 - Python 3.x installed
 - [Inno Setup](https://www.jrsoftware.org/isinfo.php) for creating the installer (optional)
 
@@ -59,6 +59,20 @@ pip install -r requirements.txt
 python JuiceWatch.py
  
  ```
+
+## Windows Installation
+
+### Requirements
+
+- Any Operating System
+- Python 3.x installed
+- [Inno Setup](https://www.jrsoftware.org/isinfo.php) for creating the installer (optional)
+
+### Download installation setup from release on the github page
+ 
+ - [JuiceWatch Setup](https://github.com/vickkie/Juicewatch)
+
+
 
 ### Usage
 
