@@ -4,7 +4,6 @@ import atexit
 import subprocess
 import psutil
 import time
-from win10toast import ToastNotifier
 import tkinter as tk
 from tkinter import Tk, Label, Button, Entry, ttk, messagebox, PhotoImage, END
 import pystray
@@ -14,7 +13,7 @@ import threading
 import logging
 
 
-#  logging
+#  logging of anything
 logging.basicConfig(filename='JuiceWatch.log', level=logging.DEBUG)
 
 

@@ -13,7 +13,7 @@ import threading
 import logging
 
 
-#  logging
+#  logging of anything
 logging.basicConfig(filename='JuiceWatch.log', level=logging.DEBUG)
 
 
