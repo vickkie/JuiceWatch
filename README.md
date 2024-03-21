@@ -15,7 +15,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 
 ## Table of Contents
 
-- [Installation -Any Os](#installation)
+- [Build Installation -Any Os](#Build-installation)
 - [Installation- Windows](#Windows-Installation)
 - [Usage](#usage)
 - [Settings](#settings)
@@ -24,7 +24,7 @@ JuiceWatch is a battery monitoring application designed to provide real-time ins
 - [Contribution Guidelines](#contribution-guidelines)
 - [Changelog](#changelog)
 
-## Installation
+## Build Installation
 
 ### Requirements
 
